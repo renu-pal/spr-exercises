@@ -9,8 +9,11 @@ The `data` directory contains small datasets that your will need for different e
 
 ## Setup
 
-Install python and the packages from `requirements.txt` as described in [setup.pdf](setup.pdf).
+Follow [setup.pdf](setup.pdf). Afterwards you should have a working miniconda installation,
+a python environment with the installed requirements and a clone of this exercise repository.
+All commands assume you run them from the root of the repository folder unless otherwise stated.
 
 Get familiar with [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/),
-start a local notebook server with the `jupyter lab` command 
+start a local jupyter lab server with the `jupyter lab` command 
 and open the exercise notebooks to start coding.
+You can also use `jupyter notebook` for a simpler interface.
