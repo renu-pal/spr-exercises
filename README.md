@@ -17,3 +17,12 @@ Get familiar with [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en
 start a local jupyter lab server with the `jupyter lab` command 
 and open the exercise notebooks to start coding.
 You can also use `jupyter notebook` for a simpler interface.
+
+## Other information
+
+All exercises should be runnable on your own computer. In case you want to use the computer pools,
+these links might be helpful:
+
+[Computer vision exercises - frequently asked questions](https://github.com/lmb-freiburg/cv-exercises/blob/master/FAQ.md)
+[TFPool FAQ](https://poolmgr.informatik.uni-freiburg.de/?id=103)
+
